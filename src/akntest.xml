@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" 
+            xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 ../schemas/akomantoso30.xsd">
+  <act>
+    <meta></meta>
+    <body>
+      <chapter>
+        <num>Chapter 3</num>
+        <heading>TDY Travel</heading>
+        <part>
+          <num>Part A</num>
+          <heading>Business Travel</heading>
+          <section>
+            <num>0301</num>
+            <heading>Routine Temporary Duty (TDY)</heading>
+            <paragraph>
+              <num>030101</num>
+              <heading>Common Business Travel</heading>
+              <rule>
+                <num>A</num>
+                <heading>Eligibility</heading>
+                <content>
+                  <list>
+                    <intro>A Service member or civilian employee may be eligible for travel allowances on a routine TDY when:</intro>
+                    <point>
+                      <num>1</num> Performing operational or managerial activities, such as site visits, inspections, or investigations to oversee program activities or grant operations, or to manage activities for internal control; carrying out an audit, inspection, or repair.
+                    </point>
+                    <point>
+                      <num>2</num> Providing technical assistance.
+                    </point>
+                    <point>
+                      <num>3</num> Attending meetings to discuss general agency operations or topics of general interest, or to review status reports.
+                    </point>
+                    <point>
+                      <num>4</num> Acting as an attendant to a traveler with a special need or disability when the appropriate authority determines that the traveler is incapable of traveling alone on official business (56 Comp. Gen. 661 (1977)).
+                    </point>
+                    <point>
+                      <num>5</num> The Component head or designee determines that circumstances justify sending an official representative to a funeral.
+                    </point>
+                    <point>
+                      <num>6</num> The Component head or designee determines that circumstances justify sending an official representative to a change-of-command ceremony.
+                    </point>
+                  </list>
+                </content>
+              </rule>
+              <rule>
+                <num>B</num>
+                <heading>Allowances</heading>
+                <content>A traveler on routine TDY ordinarily receives the transportation and per diem allowances in Chapter 2.  However, depending on the reason for travel, who travels, and other circumstances, other computation rules may apply and impact the amount that a traveler is reimbursed.  The AO must verify that the traveler does not meet the conditions addressed elsewhere in Chapter 3.</content>
+              </rule>
+            </paragraph>
+          </section>
+        </part>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
